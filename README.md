@@ -15,7 +15,7 @@ completed during my internship at CodSoft.
 
 | Task No. | Project Name | Description | Status |
 |----------|-------------|-------------|--------|
-| Task 1   | Simple Calculator | -           | done |
+| Task 1   | Simple Calculator | -           | Done |
 | Task 2   | Coming Soon | -           | ⏳ Pending |
 | Task 3   | Coming Soon | -           | ⏳ Pending |
 
@@ -29,5 +29,5 @@ completed during my internship at CodSoft.
 - **GitHub:** github.com/av648228-cpu
 
 ## 📬 Contact
-- **LinkedIn:** https://www.linkedin.com/feed/
+- **LinkedIn:** www.linkedin.com/in/amit-verma-a1a28237a
 - **Email:** av648228@gmail.com
