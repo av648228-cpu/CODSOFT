@@ -1,4 +1,4 @@
-<img width="440" height="668" alt="Screenshot 2026-06-23 132241" src="https://github.com/user-attachments/assets/4801a76a-f440-4fab-a219-aaed3eab255f" /># 🧮 Simple Calculator - Project 1
+## 🧮 Simple Calculator - Project 1
 
 ## 📌 Project Overview
 A **GUI-based Calculator** built using **Python and Tkinter**
